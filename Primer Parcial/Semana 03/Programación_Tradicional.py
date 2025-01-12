@@ -1,4 +1,4 @@
-# Semana 03 _ Monica Rogel
+# Semana 04 _ Monica Rogel Q
 
 # Función para ingresar las temperaturas diarias
 def ingresar_temperaturas():

@@ -1,5 +1,5 @@
 #Aplicación de Conceptos de POO en Python Semana 06 Monica Rogel
-
+#gestion_personas_y_cuenta.
 # Clase base: Persona
 class Persona:
     """

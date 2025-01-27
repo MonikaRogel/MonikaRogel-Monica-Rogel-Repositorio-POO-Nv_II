@@ -1,4 +1,4 @@
-#Ejemplo de uso de constructores y destructores en Python desarrollado por Monica Rogel Q
+#Ejemplo de uso de constructores y destructores en Python desarrollado por Monica Rogel
 
 class Persona:
     """

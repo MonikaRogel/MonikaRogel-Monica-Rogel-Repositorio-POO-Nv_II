@@ -1,3 +1,7 @@
+"""Semana 16
+Tarea: Aplicación GUI para Gestión de Tareas con Atajos de Teclado
+Monica Rogel"""
+
 import tkinter as tk
 from tkinter import messagebox
 
